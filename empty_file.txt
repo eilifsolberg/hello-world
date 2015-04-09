@@ -1,3 +1,4 @@
 First line
 Second line
 add line after removed index
+the empty_file needs some text
